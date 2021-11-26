@@ -19,7 +19,8 @@ function generatePassword() {
   }
 
   if (passwordLength < 8 || passwordLength > 128) {
-  passwordLength = parseInt(prompt("Password must be between 8-128 characters."));
+  passwordLength = alert("Password must be between 8-128 characters.");
+  return null;
   }
 
   // Determine password criteria based on user selections
