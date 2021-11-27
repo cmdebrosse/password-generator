@@ -1,5 +1,7 @@
 # password-generator
 
+Please visit the app with the following link: https://cmdebrosse.github.io/password-generator/
+
 This application provides a random password determined by criteria the user selects. It is able to create passwords anywhere from 8-128 characters in length and may or may not include special characters, numbers, upper and lower case letters but must include at least one criteria selection.
 
 The following video demonstrates a series of different answers to the prompts including answers that are unacceptable.
